@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+# Hi there 👋, I'm YGHONG 👨‍💻
+ <p align='center'>
+ A back-end developer from Korea.
+ </p>
+ 
+ <p align='center'>
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hog225&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 ## tech skills
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
