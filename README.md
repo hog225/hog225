@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  
  <p align='center'>
  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hog225&show_icons=true&count_private=true&theme=dark" width="350"></a>
- <img src="https://img.shields.io/github/languages/count/beygee/survive"?username=hog225>
+ <img src="https://img.shields.io/github/languages/count/hog225/survive">
 </p>
 
 <h3 align="center">Tech Stack</h3>
