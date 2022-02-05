@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 
-<p align="center"> Techs <img alt="Mozilla Add-on" src="https://img.shields.io/amo/rating/dustman?label=proficiency"></p>
+<p align="center"><img src="https://img.shields.io/badge/Proficiency-5/5-success"></p>
 
 
 <p align="center"> 
