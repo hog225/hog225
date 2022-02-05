@@ -23,10 +23,10 @@ Here are some ideas to get you started:
  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hog225&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">🛠 Tech Stack 🛠</h2>
 
-<p align="center"> Techs </p>
-<img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/proficiency?label=proficiency">
+<p align="center"> Techs <img alt="Mozilla Add-on" src="https://img.shields.io/amo/rating/dustman?label=proficiency"></p>
+
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
